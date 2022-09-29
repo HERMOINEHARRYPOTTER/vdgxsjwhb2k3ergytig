@@ -48,3 +48,7 @@ dark
  
 lyirc
  she did yesterday.
+ 
+ # Halloween story
+ 
+ The jack o lantern found a magic wand, and cast "smelliarmus" on the wizard kids.  Then he puked up a bottle of firewhiskey.
