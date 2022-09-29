@@ -51,7 +51,7 @@ lyirc
  
  # Halloween story
  
- The jack o lantern found a magic wand, and cast "smelliarmus" on the wizard kids.  Then he <input type="text" placeholder="transitive verb"> up a bottle of firewhiskey.
+ The jack o lantern found a magic wand, and cast "smelliarmus" on the wizard kids.  Then he snorted up a bottle of firewhiskey.
 After puking he felt dizzy the he was..................
 D
 E
