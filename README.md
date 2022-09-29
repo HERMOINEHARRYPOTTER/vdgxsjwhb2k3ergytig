@@ -52,3 +52,8 @@ lyirc
  # Halloween story
  
  The jack o lantern found a magic wand, and cast "smelliarmus" on the wizard kids.  Then he puked up a bottle of firewhiskey.
+After puking he felt dizzy the he was..................
+D
+A
+E
+D
