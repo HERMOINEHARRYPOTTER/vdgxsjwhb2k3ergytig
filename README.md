@@ -57,3 +57,6 @@ D
 E
 A
 D
+
+# The next day...
+The jack o lantern wake up from a very bad dream and started eating jelly beans that were nasty.
